@@ -12,7 +12,7 @@ namespace StackExercise
 
         }
 
-        //Push method to add each object element to the end of the list
+        //Push method to add each object element to the start of the list
         public void Push(object e)
         {
             if(e == null) 
